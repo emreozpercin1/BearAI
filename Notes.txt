@@ -1,0 +1,3 @@
+Steps:
+-Train a model with Model.py
+-Test it with App.py or Predict.py
